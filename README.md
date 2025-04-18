@@ -62,7 +62,7 @@ The drone system is designed to:
 
 Here is a snapshot of the control and tracking GUI:
 
-![User Interface](assets/ui_screenshot.png)
+![User Interface](home.png)
 
 _The interface allows live monitoring, manual control options, and visualization of detected and tracked objects._
 
